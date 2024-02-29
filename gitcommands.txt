@@ -4,3 +4,20 @@
 4.git commit -m "project added"
 5.git remote add origin (we have to add the origin path of repository)
 6.git push origin main
+===================================
+how to add collabarators...???
+1.git clone "paste the origin"
+2.git status
+3.git add .
+4.git push orign main
+==================================
+how to pull...???
+1.git clone "paste the origin"
+2.git pull origin main
+==================================
+how to change branch and how to switch branch...???
+1.git branch branchname (it is used to create the new branch)
+2.git branch (list tha all the branch names)
+3.git checkout branchname (it is used to switch the branch)
+
+

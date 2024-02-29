@@ -1,0 +1,6 @@
+1.git init
+2.git status
+3.git add .
+4.git commit -m "project added"
+5.git remote add origin (we have to add the origin path of repository)
+6.git push origin main
